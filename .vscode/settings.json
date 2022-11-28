@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://nsmqhjcp:bRn_YufVAFikuX8OlS1Q01ITKu6aIJHz@peanut.db.elephantsql.com/nsmqhjcp",
+            "name": "car-dealership"
+        }
+    ]
+}
